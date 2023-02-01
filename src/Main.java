@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args){
         int parameter1 = 0;
         int parameter2 = 0;
-        String operation ="CARACTERES"; //  Aqui declaramos un String, cadena es necesario para indicar que es un string
+        String operation ="CARACTERES"; // Aqui declaramos un String, cadena es necesario para indicar que es un string
         Scanner teclado = new Scanner(System.in); // scanner es una clase de java.util, creamos un objeto dentro de esta clase
         //llamado teclado del tipo scaner, (System.in) se refiere a que el usuario ingresará algo por el teclado
 
